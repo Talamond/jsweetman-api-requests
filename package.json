@@ -1,0 +1,31 @@
+{
+  "name": "jsweetman-api-requests",
+  "version": "1.0.0",
+  "description": "A helper lib for api requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talamond/jsweetman-api-requests.git"
+  },
+  "keywords": [
+    "epic",
+    "action",
+    "react",
+    "redux",
+    "rxjs"
+  ],
+  "author": "Jonathan Sweetman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talamond/jsweetman-api-requests/issues"
+  },
+  "homepage": "https://github.com/Talamond/jsweetman-api-requests#readme",
+  "dependencies": {
+    "jsweetman-redux-typed": "^2.0.1",
+    "rxjs": "5.5.6",
+    "uuid": "^8.3.2"
+  }
+}
